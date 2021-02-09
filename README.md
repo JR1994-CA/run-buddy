@@ -8,7 +8,7 @@ A website that offers fitness training services.
 * CSS
 
 ## Website
-
+https://jr1994-ca.github.io/run-buddy/
 
 ## Contribution
 Made with ❤️ by [Jesus Ramirez Arroyo]
