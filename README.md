@@ -12,3 +12,5 @@ https://jr1994-ca.github.io/run-buddy/
 
 ## Contribution
 Made with ❤️ by [Jesus Ramirez Arroyo]
+
+# Run Buddy Inc.
